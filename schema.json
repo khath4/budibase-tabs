@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "metadata": {},
+  "metadata": { "svelteMajor": 5 },
   "schema": {
     "name": "bb-plugin-Tabs",
     "friendlyName": "Tabs",
